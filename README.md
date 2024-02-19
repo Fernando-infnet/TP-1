@@ -19,3 +19,22 @@ Em uma empresa, a entidade chave é o funcionário, que pode assumir várias fun
 A imagem acima mostra a criação de dois funcionários com atributos que funcionam, e que podem ser chamados para serem mostrados como respectivos valores de funcionário 1 e 2
 
 ![Screenshot from 2024-02-19 20-16-34](https://github.com/Fernando-infnet/TP-1/assets/132312334/ca47263c-c342-4e0f-bccd-81f1ae67180d)
+
+## Instanciação de Objetos
+
+![Screenshot from 2024-02-19 18-54-35](https://github.com/Fernando-infnet/TP-1/assets/132312334/f7bc1abd-822b-4209-b7d2-2002218f38d2)
+
+Os seguintes objetos tem como objetivo não serem possíveis de funcionar de acordo com a definição da classe, já que tipos como int, string, não podem ser convertidos durante a inserção de valores sem ocorrer um erro no programa, como o seguinte:
+
+![Screenshot from 2024-02-19 19-03-22](https://github.com/Fernando-infnet/TP-1/assets/132312334/2538e834-8fdf-45f9-8fbf-a2bc6b11176a)
+
+Mas também é necessário a avaliação de objetos de mesmo tipo, como nesse caso:
+
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/b15b562f-1310-45a0-93bb-54a7c2c1f43e)
+
+Área é uma string, mas está vazia, o que não é bom para o objeto, se for utilizar do valor deste objeto no futuro.
+
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/a4c16cbb-555a-4b80-8907-ccfd1684d751)
+
+Salário é int, mas está 0, salário é necessário ser acima de 0, para que seja considerado como tal
+
