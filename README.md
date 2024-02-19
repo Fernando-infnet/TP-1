@@ -36,5 +36,16 @@ Mas também é necessário a avaliação de objetos de mesmo tipo, como nesse ca
 
 ![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/a4c16cbb-555a-4b80-8907-ccfd1684d751)
 
-Salário é int, mas está 0, salário é necessário ser acima de 0, para que seja considerado como tal
+Salário é int, mas está 0, salário é necessário ser acima de 0, para que seja considerado como tal.
+Ambos estes casos resultam nesses erros
+
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/9982a5c3-f814-40d5-8752-1dc3285fd9d9)
+
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/8488a980-1237-40a7-8185-8a781dd9aeba)
+
+O construtor da classe:
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/8691df04-34cc-4c35-89b5-266b2f9460d6)
+
+
+
 
