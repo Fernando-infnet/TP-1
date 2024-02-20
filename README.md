@@ -56,6 +56,12 @@ O seguinte código consegue mexer nos getters e setters do objeto, inclusive ver
 
 ![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/426af7cc-7c0f-4470-a844-1aed8f1d55dc)
 
+## Implementação de Métodos
+O Seguinte método pode ser utilizado em um contexto real para calcular aumento de um funcionário da empresa, valores são testado se estão acima de 0 para serem considerados aumento, caso contrário é lançado uma exceção.
 
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/845de543-8d46-4f99-a5b4-e31664e6b2d9)
 
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/1f1ede55-58ed-44d6-954b-91d15bcff714)
 
+## Exploração de Condições
+Várias situações durante o relatório são testadas para o bom funcionamento do código, é possível notar a verificação antes e após, durante o construtor e sets, para que seja possível apenas entrar dados confiáveis no objeto.
