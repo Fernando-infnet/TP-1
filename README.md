@@ -1,5 +1,5 @@
 # Relatório do Projeto TP1 
-Neste relatório iremos escrever a resposta para todas as instruções do trabalho, incluindo prints e linhas de código do projeto criado.=
+Neste relatório iremos escrever a resposta para todas as instruções do trabalho, incluindo prints e linhas de código do projeto criado.
 ## Preparação do Ambiente
 ![Screenshot from 2024-02-19 18-46-20](https://github.com/Fernando-infnet/TP-1/assets/132312334/20e8ba4a-560b-40d6-a8ee-fcf3054f02d2)
 
