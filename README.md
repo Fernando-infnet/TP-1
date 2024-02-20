@@ -28,6 +28,8 @@ Os seguintes objetos tem como objetivo não serem possíveis de funcionar de aco
 
 ![Screenshot from 2024-02-19 19-03-22](https://github.com/Fernando-infnet/TP-1/assets/132312334/2538e834-8fdf-45f9-8fbf-a2bc6b11176a)
 
+### Análise dos valores dos atributos dos objetos
+
 Mas também é necessário a avaliação de objetos de mesmo tipo, como nesse caso:
 
 ![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/b15b562f-1310-45a0-93bb-54a7c2c1f43e)
@@ -44,7 +46,15 @@ Ambos estes casos resultam nesses erros
 ![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/8488a980-1237-40a7-8185-8a781dd9aeba)
 
 O construtor da classe:
+
 ![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/8691df04-34cc-4c35-89b5-266b2f9460d6)
+
+### Validação dos métodos de acesso
+O seguinte código consegue mexer nos getters e setters do objeto, inclusive verificar quando um valor é fora do padrão de uso, jogando um erro.
+
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/16697153-86ad-4e08-bac2-b4ca0d8d0a92)
+
+![image](https://github.com/Fernando-infnet/TP-1/assets/132312334/426af7cc-7c0f-4470-a844-1aed8f1d55dc)
 
 
 
